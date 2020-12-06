@@ -1,0 +1,167 @@
+
+body{
+    font-style: "맑은고딕", "고딕","굴림";
+    
+}
+
+header{
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 15px;
+    overflow: hidden;
+}
+
+header h1{
+    font-family: Corben-Regular;
+    font-size: 65px;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    width: 100%;
+    float: left;
+    color: #71747c;
+}
+
+header h2{
+    font-family: DXMSubtitlesM-KSCpc-EUC-H;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 1px;
+    margin-bottom: 110px;
+    width: 100%;
+    float: left;
+    color: #9497a0;
+    
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav ul li{
+    display: inline;
+    float: left;
+    margin: 10px;
+}
+
+p{
+    font-size: 14px;
+    line-height: 20px;
+}
+
+section{
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0px;
+    border-color: #edeef4
+   
+}
+
+footer{
+    width: 100%;
+    margin-top:50px;
+    padding: 10px;
+    display: inline-block;
+}
+
+ul{
+    list-style-type: square;
+    
+}
+
+.ul_style{
+    list-style: none;
+    padding: 10px;
+}
+
+img{
+    margin-left:40px;
+    margin-right:40px;
+}
+
+#bb:hover{
+opacity: 0.5;
+}
+
+#b2:hover{
+opacity: 0.5;
+}
+
+#b3:hover{
+opacity: 0.5;
+}
+
+#b4:hover{
+opacity: 0.5;
+}
+
+@font-face{
+    font-family: Dynalight-Regular;
+    src:url('Dynalight-Regular.ttf');
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: Corben-Regular;
+    src:url('Corben-Regular.ttf');
+}
+
+@font-face{
+    font-family: 나눔고딕L;
+    src:url('나눔고딕L.ttf');
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: Typo_HongikinganM;
+     src:url('Typo_HongikinganM.ttf');
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: KCC-eunyoung;
+     src:url('KCC-eunyoung.ttf');
+    font-weight: normal;
+}
+
+header h1{
+    font-family:DXMSubtitlesM-KSCpc-EUC-H;   
+}
+
+header h2{
+    font-family:나눔고딕L;
+}
+
+body{
+    font-family: Typo_HongikinganM;
+}
+
+.medium{
+    font-size: medium;
+    text-align: left;
+    text-decoration: underline;
+    word-spacing: 0.5em;
+}
+
+h1{
+    font-variant: small-caps;
+    font-family: Typo_HongikinganM;
+    text-align: center;
+    color: #4f5b5f
+    
+}
+li{
+    font-size: 16PX;
+    font-weight: 10px;
+    display: inline-block;
+    padding: 60px;
+    color: #b75656
+    
+}
+
+a:link, a:active{
+    color: #b5b5b5;
+    text-decoration-line: underline;
+}

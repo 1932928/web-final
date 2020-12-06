@@ -1,0 +1,161 @@
+
+body{
+    background-color: ffd9e2;
+    
+}
+
+header{
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+    padding: 15x;
+    overflow: hidden;
+    background-color: #;
+}
+
+header h1{
+    font-family:  Corben-Regular;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    width: 100%;
+    float: left;
+    color: #ffd9e2;
+}
+
+header h2{
+    font-family: IropkeBatangM;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 1px;
+    margin-bottom: 20px;
+    width: 100%;
+    float: left;
+    color: #9497a0;
+    
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav ul li{
+    display: inline;
+    float: left;
+    margin: 10px;
+}
+
+nav ul li a{
+    color: #3c4d71;
+    text-decoration: none;
+}
+
+p{
+    font-size: 16px;
+    line-height: 20px;
+    margin-left: 90px;
+    margin-right:90px;
+}
+
+section{
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    background: white;
+    padding: 0px;
+    border-color: white;  
+}
+
+ul{
+    list-style-type: square;
+}
+
+img{
+    margin-bottom:1px;
+    display: inline-flex;    
+}
+
+.box{
+    width: 1000px;
+    height: 1050px;
+    margin: 10px;
+    background-color: white;
+    margin: auto;
+    
+    
+}
+
+#f1:hover{
+    opacity: 0.4;
+}
+
+#f2:hover{
+    opacity: 0.4;
+}
+
+p1{
+    color: #c16f88;
+    border-bottom-style: dashed;
+    border-bottom-width: 1px;
+}
+
+
+@font-face{
+    font-family: Dynalight-Regular;
+    src:url('Dynalight-Regular.ttf');
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: Corben-Regular;
+    src:url('Corben-Regular.ttf');
+}
+
+@font-face{
+    font-family: IropkeBatangM;
+    src:url('IropkeBatangM.ttf');
+   
+}
+
+@font-face{
+    font-family: Typo_HongikinganM;
+     src:url('Typo_HongikinganM.ttf');
+}
+
+@font-face{
+    font-family: KCC-eunyoung;
+     src:url('KCC-eunyoung.ttf');
+}
+
+@font-face{
+    font-family: THE%B8%EDǰ%B8%ED%C1%B62L;
+     src:url('THE%B8%EDǰ%B8%ED%C1%B62L.ttf');
+}
+
+.medium{
+    font-size: medium;
+    text-align: left;
+    text-decoration: underline;
+    word-spacing: 0.5em;
+}
+
+h1{
+    font-variant: small-caps;
+    font-family: Typo_HongikinganM;
+    text-align: center;
+    color: #4f5b5f
+    
+}
+header h1{
+    font-family:DXMSubtitlesM-KSCpc-EUC-H;   
+}
+
+header h2{
+    font-family:THE%B8%EDǰ%B8%ED%C1%B62L;
+}
+
+body{
+    font-family: Corben-Regular;
+}
